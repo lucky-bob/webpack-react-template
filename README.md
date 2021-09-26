@@ -1,1 +1,1 @@
-# webpack-react-template
+# 一个简单的react工程初始模板
